@@ -16,10 +16,10 @@ CloseCallback = <function> - Function to execute when the window is closed.
 ]]
 
 OrionLib:MakeNotification({
-	Name = "Loading ...",
-	Content = "Please wait for the script to load",
+	Name = "B7BK YA SHAHD 💗",
+	Content = "I really love you, will you marry me? 🫀",
 	Image = "rbxassetid://17330343750",
-	Time = 7
+	Time = 100
 })
 
 --[[
